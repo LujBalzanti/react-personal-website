@@ -1,0 +1,34 @@
+.light-text{
+    color: #c0c0c0;
+}
+.nav-bg-color{
+    background-color: #2C2F33;
+}
+
+footer{
+    width:100%;
+    height:50px;
+    position:absolute;
+    bottom:0;
+    padding-top: 10px;
+    background-color: #2C2F33;
+
+}
+.social-media-links {
+		overflow: hidden;
+		padding-bottom: 4px;
+		text-align: center;
+}
+.social-ul {
+    margin: 0;
+    padding: 0;
+}
+.social-li {
+    display: inline;
+    margin: 0;
+    padding-right: 10px;
+}
+.social-img {
+    width: 35px;
+    height: 35px;
+}
