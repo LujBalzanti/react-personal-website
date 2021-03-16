@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Router>
         <Navigation />
-        <HashRouter basename="/react-personal-website">
+        <HashRouter basename={process.env.PUBLIC_URL || ''}>
           <Switch>
             <Route path="/" exact component={() => <Home />} />
             <Route path="/skills" exact component={() => <Skills />} />
