@@ -9,8 +9,8 @@ function Navigation(props) {
                 <Link to="/" class="navbar-brand">Home</Link>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
-                        <li class={`nav-item ${props.location.pathname === "/" ? "active" : ""}`}>
-                            <Link to="/" class="nav-link">About</Link>
+                        <li class={`nav-item ${props.location.pathname === "/about" ? "active" : ""}`}>
+                            <Link to="/about" class="nav-link">About</Link>
                         </li>
                         <li class={`nav-item ${props.location.pathname === "/skills" ? "active" : ""}`}>
                             <Link to="/skills" class='nav-link'>Skills</Link>
