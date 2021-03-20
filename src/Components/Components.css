@@ -4,7 +4,7 @@
 }
 .light-text{
     color: #FFFFFF;
-    opacity: 0.6; 
+    opacity: 60%; 
 }
 .nav-bg-color{
     background-color: #36393E;
@@ -15,10 +15,13 @@ footer{
     height:50px;
     position:absolute;
     bottom:0;
-    padding-top: 10px;
+    padding-top: 8px;
     background-color: #36393E;
-
 }
+.footer{
+    margin-top: 50px;
+}
+
 .social-media-links {
 		overflow: hidden;
 		padding-bottom: 4px;

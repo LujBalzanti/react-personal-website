@@ -3,8 +3,14 @@
   background-color: #2C2F33;
   min-height: 100vh;
   position: relative;
+  display: flex;
+  flex-direction: column;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.app-conetnt{
+  flex: 1 0 auto;
 }
