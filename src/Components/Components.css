@@ -1,5 +1,10 @@
+.light-text-emphasis{
+    color: #FFFFFF;
+    opacity: 87%;    
+}
 .light-text{
-    color: #c0c0c0;
+    color: #FFFFFF;
+    opacity: 60%; 
 }
 .nav-bg-color{
     background-color: #36393E;
@@ -31,4 +36,19 @@ footer{
 .social-img {
     width: 35px;
     height: 35px;
+}
+
+a {
+    color: #BB86FC;
+}
+
+.main-body {
+    font-size: 20px;
+}
+
+.in-middle {
+    width:100%;
+    position: absolute;
+    top: 42%;
+    transform: translateY(-50%);
 }
