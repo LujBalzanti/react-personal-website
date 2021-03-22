@@ -5,10 +5,11 @@ function Navigation(props) {
     return (
         <div className="navigation">
             <nav class="navbar navbar-expand-lg navbar-dark nav-bg-color">
-            <div class="container-fluid">
-                <Link to="/" class="navbar-brand">Home</Link>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
+                        <li class={`nav-item ${props.location.pathname === "/" ? "active" : ""}`}>
+                            <Link to="/" class="nav-link">Home</Link>
+                        </li>
                         <li class={`nav-item ${props.location.pathname === "/about" ? "active" : ""}`}>
                             <Link to="/about" class="nav-link">About</Link>
                         </li>
@@ -20,7 +21,6 @@ function Navigation(props) {
                         </li>
                     </ul>
                 </div>
-            </div>
             </nav>
         </div>
 
