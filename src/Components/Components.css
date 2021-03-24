@@ -68,3 +68,8 @@ a:hover {
     margin-left: 20px;
     margin-right: 20px;
 }
+
+.navbar {
+    padding-bottom: 5px;
+    padding-top: 0px;
+}
