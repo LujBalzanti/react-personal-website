@@ -6,6 +6,9 @@
     margin-top: 15px;
     margin-bottom: 15px;
 }
+.title-top{
+    margin-top: 15px;
+}
 .light-text{
     color: #FFFFFF;
     opacity: 0.6; 
@@ -58,8 +61,10 @@ a:hover {
 }
 
 .in-middle {
-    width:100%;
-    position: absolute;
-    top: 42%;
-    transform: translateY(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:80vh;
+    margin-left: 20px;
+    margin-right: 20px;
 }

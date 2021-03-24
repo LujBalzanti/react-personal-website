@@ -22,8 +22,14 @@ function Navigation(props) {
                     </ul>
                 </div>
             </nav>
+            <nav class="navbar navbar-dark bg-dark">
+                <div class="container-fluid">
+                    <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    </button>
+            </div>
+            </nav>
         </div>
-
     )
 }
 

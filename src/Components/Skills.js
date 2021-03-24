@@ -3,9 +3,9 @@ import './Components.css';
 
 function Skills() {
     return (
-      <div className="skills" class="container title">
+      <div className="skills" class="container">
           <div class="row">
-            <div class="col">
+            <div class="col title-top">
               <div class="card nav-bg-color">
                 <div class="card-body">
                   <h3 class="card-title light-text-emphasis">Programing Languagues</h3>
@@ -19,7 +19,7 @@ function Skills() {
                   </ul>
               </div>
             </div>
-            <div class="col">
+            <div class="col title-top">
               <div class="card nav-bg-color">
                 <div class="card-body">
                   <h3 class="card-title light-text-emphasis">Tools & Technologies</h3>
@@ -38,7 +38,7 @@ function Skills() {
             </div>
           </div>
           <div class="row justify-content-center title">
-            <div class="col-6">
+            <div class="col-lg-6">
               <div class="card nav-bg-color">
                 <div class="card-body">
                   <h3 class="card-title light-text-emphasis">Skills</h3>

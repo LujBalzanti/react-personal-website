@@ -4,7 +4,7 @@ import './Components.css'
 function About() {
     return (
       <div className="about">
-        <div class="container col-6">
+        <div class="container-fluid col-lg-6">
           <h1 class="light-text-emphasis title text-center">My name is Luj Balzanti. Nice to meet you!</h1>
             <p class="light-text main-body text-center"> 
               I was born in Slovenia in 1996 and I currently work as a freelance full stack web developer, based in London. I also enjoy weightlifting and playing a good board game in my free time.
