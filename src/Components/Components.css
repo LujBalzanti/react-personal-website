@@ -2,6 +2,14 @@
     color: #FFFFFF;
     opacity: 0.87;    
 }
+.gray-text-emphasis{
+    color: #2C2F33;
+    font-weight: bold;
+}
+.bright-bg-color{
+    background-color: #FFFFFF;
+    opacity: 0.87;
+}
 .title {
     margin-top: 15px;
     margin-bottom: 15px;
@@ -72,4 +80,7 @@ a:hover {
 .navbar {
     padding-bottom: 5px;
     padding-top: 0px;
+}
+.big-icon {
+    height: 32px;
 }
