@@ -50,7 +50,7 @@ function Skills() {
                     <li class="list-group-item nav-bg-color light-text">Good under pressure - (Evidenced by experience in high stress competitive environments)</li>
                     <li class="list-group-item nav-bg-color light-text">Time management</li>
                     <li class="list-group-item nav-bg-color light-text">Comfortable in multidisciplinary and diverse environments</li>
-                    <li class="list-group-item nav-bg-color light-text">Public speaking - (Awarded "Best Presentation" for <a href="https://lokar.fmf.uni-lj.si/www/rom_konferenca/konferenca_2017/orodja/LujRomanBalzanti.html"><i>Calculating the probabilty in Poker, Texas Hold'em</i></a>- University of Ljubljana, Faculty of Mathematics and Physics - 2017)</li>
+                    <li class="list-group-item nav-bg-color light-text">Public speaking - (Awarded "Best Presentation" for <a href="https://lokar.fmf.uni-lj.si/www/rom_konferenca/konferenca_2017/orodja/LujRomanBalzanti.html"><i>Calculating the probabilty in Poker, Texas Hold'em</i></a> - University of Ljubljana, Faculty of Mathematics and Physics - 2017)</li>
                   </ul>
               </div>
             </div>
