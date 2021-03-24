@@ -15,7 +15,7 @@ function About() {
               I greatly enjoy learning and constantly look to expand my knowledge with new challenges. Oftentimes, I will look to work with frameworks I'm not yet familiar with as a way of learning them - I will try them out on personal projects or on software katas.
             </p>
             <p class="light-text main-body text-left">
-              Before I moved to London, I worked in a small team environment as a mobile phone and tablet repair technician. This required fast-paced, detail-oriented and precise communication with both coworkers and colleagues, skills that translate fully into agile workplace environments. As new phone models and repair techniques were introduced, I always had to adapt on the fly to current industry standards, a must-have ability in the world of programming.             </p>
+              Before I moved to London, I worked in a small team environment as a mobile phone and tablet repair technician. This required fast-paced, detail-oriented and precise communication with both coworkers and customers, skills that translate fully into agile workplace environments. As new phone models and repair techniques were introduced, I always had to adapt on the fly to current industry standards, a must-have ability in the world of programming.             </p>
             <p class="light-text main-body text-left">  
               Besides my work experience, I used to be a competitive video game player: I reached the top 0.1% of players in multiple video games, including League of Legends, Hearthstone, Gwent, and Prismata, where I also won a world cup. I strongly enjoy games which are strategic and force me to think fast.             </p>
             <p class="light-text main-body text-left"> 
