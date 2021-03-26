@@ -22,7 +22,7 @@ function Projects() {
               </div>
               <div class="card nav-bg-color col-8 col-md-4 col-lg-3 border border-2 project-card">
                 <h5 class="card-title project-card-title light-text-emphasis">Portfolio Website</h5>
-                <img src="images/projects/portfolio/Maincard.png" class="card-img-top rounded mx-auto d-block" alt="An example website"></img>
+                <img src="images/projects/portfolio/maincard.png" class="card-img-top rounded mx-auto d-block" alt="An example website"></img>
                 <div class="card-body text-left">
                   <p class="card-text projects-text light-text">The website you're currently visiting.</p>
                   <ul class="project-card-ul">
