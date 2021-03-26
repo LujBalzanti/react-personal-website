@@ -2,25 +2,36 @@
     color: #FFFFFF;
     opacity: 0.87;    
 }
+
 .gray-text-emphasis{
     color: #2C2F33;
     font-weight: bold;
 }
+
+.gray-text {
+    color: #2C2F33;
+    font-weight: 600;
+}
+
 .bright-bg-color{
     background-color: #FFFFFF;
     opacity: 0.87;
 }
+
 .title {
     margin-top: 15px;
     margin-bottom: 15px;
 }
+
 .title-top{
     margin-top: 15px;
 }
+
 .light-text{
     color: #FFFFFF;
     opacity: 0.6; 
 }
+
 .nav-bg-color{
     background-color: #36393E;
 }
@@ -33,6 +44,7 @@ footer{
     padding-top: 8px;
     background-color: #36393E;
 }
+
 .footer{
     margin-top: 50px;
 }
@@ -42,15 +54,18 @@ footer{
 		padding-bottom: 4px;
 		text-align: center;
 }
+
 .social-ul {
     margin: 0;
     padding: 0;
 }
+
 .social-li {
     display: inline;
     margin: 0;
     padding-right: 10px;
 }
+
 .social-img {
     width: 35px;
     height: 35px;
@@ -81,6 +96,7 @@ a:hover {
     padding-bottom: 5px;
     padding-top: 0px;
 }
+
 .big-icon {
     height: 32px;
 }
@@ -92,6 +108,23 @@ a:hover {
     margin-bottom: 25px;
 }
 
-.wip-title{
-    margin-top: 25px;
+.projects-text{
+    justify-self: left;
+}
+
+.project-card-ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.project-button{
+    width: fit-content;
+    align-self: center;
+    margin-bottom: 20px;
+}
+
+.project-card-title{
+    margin-top: 10px;
+    margin-bottom: 15px;
 }
