@@ -4,7 +4,7 @@ import './Components.css';
 function Projects() {
     return (
       <div className="projects">
-          <h1 class="light-text">Projects</h1>
+          <h1 class="light-text-emphasis">Projects</h1>
           <div class="container">
             <div class="row justify-content-center justify-content-lg-between">
               <div class="card nav-bg-color col-8 col-md-4 col-lg-3 border border-2 project-card">
@@ -24,7 +24,7 @@ function Projects() {
                 <h5 class="card-title project-card-title light-text-emphasis">Portfolio Website</h5>
                 <img src="images/projects/portfolio/maincard.png" class="card-img-top rounded mx-auto d-block" alt="An example website"></img>
                 <div class="card-body text-left">
-                  <p class="card-text projects-text light-text">The website you're currently visiting.</p>
+                  <p class="card-text projects-text light-text">The website you're currently visiting. It's fully responsive!</p>
                   <ul class="project-card-ul">
                       <li class="light-text">Technologies:</li>
                       <li class="light-text"><i class="devicon-react-original"></i> React</li>
