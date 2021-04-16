@@ -28,7 +28,7 @@ function Skills() {
                   <li class="list-group-item nav-bg-color light-text"><i class="devicon-css3-plain"></i> CSS3</li>
                   <li class="list-group-item nav-bg-color light-text"><i class="devicon-git-plain"></i> Git</li>
                   <li class="list-group-item nav-bg-color light-text"><i class="devicon-flask-original"></i> Flask</li>
-                  <li class="list-group-item nav-bg-color light-text"><i class="devicon-jquery-plain">jQuery</i></li>
+                  <li class="list-group-item nav-bg-color light-text"><i class="devicon-jquery-plain"></i> jQuery</li>
                   <li class="list-group-item nav-bg-color light-text"><i class="devicon-postgresql-plain"></i> PostgreSQL</li>
                   <li class="list-group-item nav-bg-color light-text">SQLite3</li>
                 </ul>
