@@ -9,7 +9,7 @@ function Projects() {
             <div class="row justify-content-center justify-content-lg-between">
               <div class="card nav-bg-color col-8 col-md-4 col-lg-3 border border-2 project-card">
                 <h5 class="card-title project-card-title light-text-emphasis">E-commerce Website</h5>
-                <img src="images/projects/commerce/maincard.png" class="card-img-top rounded mx-auto d-block" alt="An e-commerce website"></img>
+                <img src="images/Projects/Commerce/maincard.png" class="card-img-top rounded mx-auto d-block" alt="An e-commerce website"></img>
                 <div class="card-body text-left">
                   <p class="card-text light-text">A website focused on auctioning and bidding on items.</p>
                     <ul class="project-card-ul">
@@ -22,7 +22,7 @@ function Projects() {
               </div>
               <div class="card nav-bg-color col-8 col-md-4 col-lg-3 border border-2 project-card">
                 <h5 class="card-title project-card-title light-text-emphasis">Hotel Reservations Website</h5>
-                <a href="https://streamable.com/idhqno"><img src="images/projects/reservations/maincard.png" class="card-img-top rounded mx-auto d-block" alt="A hotel website"></img></a>
+                <a href="https://streamable.com/idhqno"><img src="images/Projects/Reservations/maincard.png" class="card-img-top rounded mx-auto d-block" alt="A hotel website"></img></a>
                 <div class="card-body text-left">
                   <p class="card-text projects-text light-text">A hotel landing page with reservation functionality. Based on architecture Kata specifications with added <a href="https://streamable.com/idhqno">Front-end.</a></p>
                   <ul class="project-card-ul">
@@ -36,7 +36,7 @@ function Projects() {
               </div>
               <div class="card nav-bg-color col-8 col-md-4 col-lg-3 border border-2 project-card">
                 <h5 class="card-title project-card-title light-text-emphasis">Portfolio Website</h5>
-                <img src="images/projects/portfolio/maincard.png" class="card-img-top rounded mx-auto d-block" alt="A portfolio website"></img>
+                <img src="images/Projects/Portfolio/maincard.png" class="card-img-top rounded mx-auto d-block" alt="A portfolio website"></img>
                 <div class="card-body text-left">
                   <p class="card-text projects-text light-text">The website you're currently visiting. It's fully responsive!</p>
                   <ul class="project-card-ul">
@@ -49,7 +49,7 @@ function Projects() {
               </div>
               <div class="card nav-bg-color col-8 col-md-4 col-lg-3 border border-2 project-card">
                 <h5 class="card-title project-card-title light-text-emphasis">ASP.NET Project</h5>
-                <img src="images/projects/wip.svg" class="wip-size" alt="Work in progress"></img>
+                <img src="images/Projects/wip.svg" class="wip-size" alt="Work in progress"></img>
                 <div class="card-body">
                   <p class="card-subtitle light-text">Coming soon</p>
                 </div>
